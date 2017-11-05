@@ -1,0 +1,24 @@
+{
+  "name": "npm-and-json-practice",
+  "version": "1.0.0",
+  "description": "Node, NPM and jSon Practice",
+  "main": "index.js",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athori/NodeNPMandjSonPractice.git"
+  },
+  "author": "Jason Stass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athori/NodeNPMandjSonPractice/issues"
+  },
+  "homepage": "https://github.com/athori/NodeNPMandjSonPractice#readme"
+}
